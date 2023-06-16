@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Channels.NET.Unbounded", "Channels.NET\Channels.NET.Unbounded.csproj", "{3C942861-601A-4D03-AF59-3E3A9C283BE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Channels.NET.Bounded", "Channels.NET.Bounded\Channels.NET.Bounded.csproj", "{7453BDDE-CD75-4C03-BE3D-A36F5BBA772E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C942861-601A-4D03-AF59-3E3A9C283BE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C942861-601A-4D03-AF59-3E3A9C283BE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C942861-601A-4D03-AF59-3E3A9C283BE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C942861-601A-4D03-AF59-3E3A9C283BE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7453BDDE-CD75-4C03-BE3D-A36F5BBA772E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7453BDDE-CD75-4C03-BE3D-A36F5BBA772E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7453BDDE-CD75-4C03-BE3D-A36F5BBA772E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7453BDDE-CD75-4C03-BE3D-A36F5BBA772E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E01B439-6345-40BC-8DD2-FDCE3D35D091}
+	EndGlobalSection
+EndGlobal
